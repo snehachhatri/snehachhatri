@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can explore all of my projects on my GitHub profile: https://github.com/snehachhatri.**
 
-- 📝 I regularly write articles on [✍️ I’m planning to start writing articles on Web Development and Cyber Security soon.](✍️ I’m planning to start writing articles on Web Development and Cyber Security soon.)
+- 📝✍️ I’m planning to start writing articles on Web Development and Cyber Security soon.**
 
 - 💬 Ask me about my learning journey in Full-Stack Development and Cyber Security.**
 
