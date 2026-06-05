@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy 👋, I'm SnehaChhatri</h1>
-<h3 align="center">A passionate Fullstack developer and Cyber-Security learner from India</h3>
+<h3 align="center">A passionate Software developer and Cyber-Security learner from India</h3>
 
 - 🌱 I’m currently learning **AI,Machine Lerning,Deep learning,Web Development,App development,cybersecurity**
 
